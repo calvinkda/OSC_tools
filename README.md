@@ -4,7 +4,6 @@ Useful Resources for Teams
 ## **collaboration**
 ### https://slack.com/intl/fr-fr/
 ### https://trello.com/fr
-### https://trello.com/fr
 ### https://www.notion.so/fr-fr
 ### https://www.gantt.com/fr/
 
